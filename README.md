@@ -43,8 +43,10 @@ To ImplementA * Search algorithm for a Graph using Python 3.
 
 ## PROGRAM:
 
-## Name: S.Javith farkhan
-## Register Number: 212221240017
+```
+ Name: S.Javith farkhan
+ Register Number: 212221240017
+```
 ```
 from collections import defaultdict
 H_dist ={}
